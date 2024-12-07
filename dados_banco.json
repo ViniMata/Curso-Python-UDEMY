@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Vinicius",
+    "sobrenome": "Matareli",
+    "idade": 18,
+    "saldo": 2500
+  },
+  {
+    "nome": "André",
+    "sobrenome": "Brito",
+    "idade": 20,
+    "saldo": 10000
+  },
+  {
+    "nome": "Hector",
+    "sobrenome": "Ruiz",
+    "idade": 19,
+    "saldo": 490000
+  }
+]
